@@ -1,0 +1,12 @@
+# Shardul Vaidya
+
+## Student Profile
+I am a quick thinker and can explain complex scenarios in easy to understand ways. Determined to excel in software design and implementation roles demanding immense analytical and organizational insight.
+Well versed in Java, Rust and C#. I am very familiar with version control, CI and CD processes and have worked with complex APIs such as Discord and OpenWeather.
+I work well as part of a collaborative community and independantly. I am extremely detail oriented and analytical in design.
+
+## Development Work
+All of it is linked in my GitHub profile as it is my primary development platform.
+I also host and manage an extensive home server including nested virtualisation and containerised applications.
+I am current designing and building a mechanically complex game in the Unity Engine.
+I have experience in System Simulations where I designed and implemented a Completely fair Scheduler using a binomial heap instead of a self-balancing binary tree.
