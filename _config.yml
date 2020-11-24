@@ -82,9 +82,6 @@ author:
   location         : "ATL"
   email            : "shardul.vaidya@outlook.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:shardul.vaidya@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/5herlocked"
